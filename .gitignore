@@ -29,3 +29,6 @@ fp-info-cache
 *.csv
 
 .gitignore
+#auto_saved_files#
+*.lck
+One-to-One LA Adapter/#auto_saved_files#
