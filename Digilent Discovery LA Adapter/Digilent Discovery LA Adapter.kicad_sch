@@ -5352,7 +5352,7 @@
 		)
 		(uuid "594923b1-9bb5-4ae5-afdd-c0863264aec4")
 	)
-	(label "XIN"
+	(label "XE"
 		(at 111.76 68.58 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6133,7 +6133,7 @@
 		)
 		(uuid "de34bc87-a67a-49f1-9c5a-5d10690a1fd0")
 	)
-	(label "XE"
+	(label "XIN"
 		(at 86.36 54.61 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7522,7 +7522,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "XE_LA"
+		(property "Value" "XIN_LA"
 			(at 99.06 57.1499 0)
 			(effects
 				(font
