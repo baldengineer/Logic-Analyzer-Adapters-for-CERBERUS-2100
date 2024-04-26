@@ -17,7 +17,7 @@ There is a bug with the pattern trigger. Addresses are reversed. So, to trigger 
 
 The clocks and control signals connect to the 24-32 inputs.
 
-[CERBERUS 2100 Digital Discovery Template.dwf3work](CERBERUS%202100%20Digital%20Discovery Template.dwf3work) is a starting project. It has all of the signals mapped for you! 
+**CERBERUS 2100 Digital Discovery Template.dwf3work** is a starting project. It has all of the signals mapped for you! 
 
 
 ### Build Notes
