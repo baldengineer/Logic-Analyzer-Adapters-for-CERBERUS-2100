@@ -1,5 +1,5 @@
 ## Digilent Discovery LA Adapter
-![Digital Discovery Adapter Connected](images/CERBERUS_2100_Digital_Discovery_Adapter.jpg)
+![Digital Discovery Adapter Connected](/images/CERBERUS_2100_Digital_Discovery_Adapter.jpg)
 
 This adapter is inteded to be used with a [Digilent Digital Discovery](https://digilent.com/shop/digital-discovery-portable-usb-logic-analyzer-and-digital-pattern-generator/). (Not the Analog Discovery!) These are USB-based logic analyzers that sample up to 100 MHz and 32 signals.
 
@@ -17,7 +17,7 @@ There is a bug with the pattern trigger. Addresses are reversed. So, to trigger 
 
 The clocks and control signals connect to the 24-32 inputs.
 
-[CERBERUS 2100 Digital Discovery Template.dwf3work](CERBERUS 2100 Digital Discovery Template.dwf3work) is a starting project. It has all of the signals mapped for you! 
+[CERBERUS 2100 Digital Discovery Template.dwf3work](CERBERUS%202100%20Digital%20Discovery Template.dwf3work) is a starting project. It has all of the signals mapped for you! 
 
 
 ### Build Notes

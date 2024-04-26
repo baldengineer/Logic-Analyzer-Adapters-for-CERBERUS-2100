@@ -8,5 +8,5 @@ For more information on the computer, check out the [CERBERUS 2100 project page]
 ## One-To-One Adapter 
 This adapter replicates the CERBERUS 2100's expansion port three times. Pins are mapped "1 to 1" across all three.
 
-## Digital Digital Discovery Adapter (To Be Developed)
+## Digital Digital Discovery Adapter
 This adapter connects directly to a Digilent Digital Discovery and an expansion board. The signals on the left are grouped to match the input of the Digital Discovery.
