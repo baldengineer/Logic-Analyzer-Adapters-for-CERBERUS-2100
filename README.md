@@ -1,5 +1,5 @@
 # CERBERUS 2100 Logic Analyzer Adapters
-![One-to-One Adapter Top](One-to-One%20LA%20Adapter/One-to-One%20LA%20Adapter%20top%20rev1.jpg)
+![Digital Discovery Adapter Connected](images/CERBERUS_2100_Digital_Discovery_Adapter.jpg)
 
 These adapters allow you to connect a logic analyzer to the CERBERUS 2100 expansion port--while having an expansion board connected.
 
